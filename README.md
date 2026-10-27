@@ -51,6 +51,14 @@ class Diego {
 
 <sub>Estudos em andamento, executados em simulador (sem hardware quântico real).</sub>
 
+<img src="assets/sec_quantum.gif" width="900" alt="quantum_lab">
+
+<p align="center">
+  <img src="assets/quantum.gif" width="900" alt="Animação de um circuito quântico com porta Hadamard e duas CNOT: um pulso percorre os qubits e o histograma mostra 000 e 111 com cerca de 50% cada.">
+</p>
+
+<sub>Ilustração de um circuito GHZ (H + CNOT), o tipo de circuito que simulo em Qiskit. As barras são ilustrativas, não dados de um experimento.</sub>
+
 <img src="assets/sec_stack.gif" width="900" alt="stack">
 
 <p>
