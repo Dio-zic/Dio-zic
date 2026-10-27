@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.gif" width="900" alt="Terminal animado: whoami, diego_caldas_pereira, foco: flutter, apis, jogos, quantum. Abaixo, um mapa em pixel art gerado casa a casa.">
+  <img src="assets/header.gif" width="900" alt="Terminal animado: whoami, diego_caldas_pereira, foco: flutter, apis, jogos, quantum. Abaixo, uma paisagem em pixel art com sol e montanhas.">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ class Diego {
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dio-zic/wfc-bench">wfc-bench</a></h3>
-      Compara geração procedural de mapas (Wave Function Collapse) clássica e quântica, em simulador. O mapa do topo desta página usa o mesmo tileset do projeto.<br><br>
+      Compara geração procedural de mapas (Wave Function Collapse) clássica e quântica, em simulador.<br><br>
       <img src="https://img.shields.io/badge/Python-1a0a0e?style=flat-square&logo=python&logoColor=ff5a5f" alt="Python">
       <img src="https://img.shields.io/badge/Qiskit-1a0a0e?style=flat-square&logo=qiskit&logoColor=ffaa78" alt="Qiskit">
     </td>
@@ -52,22 +52,22 @@ class Diego {
 <img src="assets/sec_stack.gif" width="900" alt="stack">
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
-  <img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Flutter-8B1020?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-8B1020?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Java-8B1020?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-8B1020?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Azure-8B1020?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Godot-8B1020?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
+  <img src="https://img.shields.io/badge/Unity-8B1020?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Git-8B1020?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<sub>Deixe só o que você usa de verdade. Para C#: `https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white`.</sub>
+<sub>Deixe só o que você usa de verdade. Para C#: `https://img.shields.io/badge/C%23-8B1020?style=for-the-badge&logo=csharp&logoColor=white`.</sub>
 
 <img src="assets/sec_contato.gif" width="900" alt="contato">
 
 <p>
-  <a href="https://www.linkedin.com/in/diego-pereira-38baab365"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/diego-pereira-38baab365"><img src="https://img.shields.io/badge/LinkedIn-8B1020?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Dio-zic"><img src="https://img.shields.io/badge/GitHub-1a0a0e?style=for-the-badge&logo=github&logoColor=ff5a5f" alt="GitHub"></a>
 </p>
 
