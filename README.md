@@ -1,22 +1,34 @@
 <p align="center">
-  <img src="assets/header.gif" width="900" alt="Terminal animado: whoami, diego_caldas_pereira, foco: flutter, apis, jogos, quantum. Abaixo, uma paisagem em pixel art com sol e montanhas.">
+  <img src="assets/header.gif" width="900" alt="Diego Caldas, Engenharia da Computação, Belém. Frases que alternam: apps com Flutter, APIs REST em Azure, jogos, Linux, computação quântica. Fundo: paisagem pixel art com sol vermelho.">
 </p>
 
-### Sobre
+<img src="assets/t_sobre.gif" width="900" alt="Sobre">
 
-Estudante de Engenharia da Computação em Belém, com formação técnica em TI.
-Gosto de Flutter, APIs REST, jogos e Linux (Pop!_OS), e estou aprendendo computação quântica com Qiskit.
+Sou de Belém, curso Engenharia da Computação e tenho formação técnica em TI.
+Passo o tempo entre apps em Flutter, jogos e o terminal do Linux. Agora estou aprendendo computação quântica na prática, com simulações em Qiskit.
 
-<img src="assets/divider.gif" width="900" alt="">
+<img src="assets/t_projetos.gif" width="900" alt="Projetos">
 
-### Projetos
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dio-zic/wfc-bench">wfc-bench</a></h3>
+      Geração procedural de mapas (Wave Function Collapse), clássica e quântica, em simulador.<br><br>
+      <img src="https://img.shields.io/badge/Python-C62839?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Qiskit-C62839?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dio-zic/qkd-qrng">qkd-qrng</a></h3>
+      Simulações do protocolo BB84 (chaves quânticas) e de um gerador quântico de números aleatórios.<br><br>
+      <img src="https://img.shields.io/badge/Python-C62839?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Qiskit-C62839?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
+    </td>
+  </tr>
+</table>
 
-- **[wfc-bench](https://github.com/Dio-zic/wfc-bench)**: geração procedural de mapas, clássica e quântica, em simulador.
-- **[qkd-qrng](https://github.com/Dio-zic/qkd-qrng)**: simulações do BB84 (chaves quânticas) e de um gerador quântico de números aleatórios.
+<sub>Estudos em andamento, executados em simulador (sem hardware quântico real).</sub>
 
-<img src="assets/divider.gif" width="900" alt="">
-
-### Quantum
+<img src="assets/t_quantum.gif" width="900" alt="Quantum">
 
 <p align="center">
   <img src="assets/quantum.gif" width="900" alt="Animação de um circuito quântico com porta Hadamard e duas CNOT: um pulso percorre os qubits e o histograma mostra 000 e 111 com cerca de 50% cada.">
@@ -24,29 +36,25 @@ Gosto de Flutter, APIs REST, jogos e Linux (Pop!_OS), e estou aprendendo computa
 
 <sub>Ilustração de um circuito GHZ (H + CNOT), do tipo que simulo em Qiskit. As barras são ilustrativas, não dados de um experimento.</sub>
 
-<img src="assets/divider.gif" width="900" alt="">
-
-### Stack
+<img src="assets/t_stack.gif" width="900" alt="Stack">
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-8B1020?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-8B1020?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Java-8B1020?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-8B1020?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Azure-8B1020?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Godot-8B1020?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
-  <img src="https://img.shields.io/badge/Unity-8B1020?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/Linux-8B1020?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-8B1020?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Flutter-C62839?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-C62839?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Java-C62839?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-C62839?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Azure-C62839?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Godot-C62839?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
+  <img src="https://img.shields.io/badge/Unity-C62839?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Linux-C62839?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-C62839?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-<img src="assets/divider.gif" width="900" alt="">
-
-### Contato
+<img src="assets/t_contato.gif" width="900" alt="Contato">
 
 <p>
-  <a href="https://www.linkedin.com/in/diego-pereira-38baab365"><img src="https://img.shields.io/badge/LinkedIn-8B1020?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:diego.cpereira7@gmail.com"><img src="https://img.shields.io/badge/Email-8B1020?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/diego-pereira-38baab365"><img src="https://img.shields.io/badge/LinkedIn-C62839?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:diego.cpereira7@gmail.com"><img src="https://img.shields.io/badge/Email-C62839?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <img src="assets/footer.gif" width="900" alt="obrigado pela visita">
