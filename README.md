@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bel%C3%A9m%2C%20PA-1a1033?style=for-the-badge&logo=googlemaps&logoColor=6eebff" alt="Belém, PA">
-  <img src="https://img.shields.io/badge/Eng.%20da%20Computa%C3%A7%C3%A3o-1a1033?style=for-the-badge&logo=academia&logoColor=ff6ec8" alt="Engenharia da Computação">
-  <img src="https://img.shields.io/badge/t%C3%A9cnico%20em%20TI-1a1033?style=for-the-badge&logo=linux&logoColor=6eebff" alt="Técnico em TI">
+  <img src="https://img.shields.io/badge/Bel%C3%A9m%2C%20PA-1a0a0e?style=for-the-badge&logo=googlemaps&logoColor=ff5a5f" alt="Belém, PA">
+  <img src="https://img.shields.io/badge/Eng.%20da%20Computa%C3%A7%C3%A3o-1a0a0e?style=for-the-badge&logo=academia&logoColor=ffaa78" alt="Engenharia da Computação">
+  <img src="https://img.shields.io/badge/t%C3%A9cnico%20em%20TI-1a0a0e?style=for-the-badge&logo=linux&logoColor=ff5a5f" alt="Técnico em TI">
 </p>
 
 <img src="assets/sec_sobre.gif" width="900" alt="sobre_mim">
@@ -35,14 +35,14 @@ class Diego {
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dio-zic/wfc-bench">wfc-bench</a></h3>
       Compara geração procedural de mapas (Wave Function Collapse) clássica e quântica, em simulador. O mapa do topo desta página usa o mesmo tileset do projeto.<br><br>
-      <img src="https://img.shields.io/badge/Python-1a1033?style=flat-square&logo=python&logoColor=6eebff" alt="Python">
-      <img src="https://img.shields.io/badge/Qiskit-1a1033?style=flat-square&logo=qiskit&logoColor=ff6ec8" alt="Qiskit">
+      <img src="https://img.shields.io/badge/Python-1a0a0e?style=flat-square&logo=python&logoColor=ff5a5f" alt="Python">
+      <img src="https://img.shields.io/badge/Qiskit-1a0a0e?style=flat-square&logo=qiskit&logoColor=ffaa78" alt="Qiskit">
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dio-zic/qkd-qrng">qkd-qrng</a></h3>
       Simulações do protocolo BB84 (distribuição quântica de chaves) e de um gerador quântico de números aleatórios.<br><br>
-      <img src="https://img.shields.io/badge/Python-1a1033?style=flat-square&logo=python&logoColor=6eebff" alt="Python">
-      <img src="https://img.shields.io/badge/Qiskit-1a1033?style=flat-square&logo=qiskit&logoColor=ff6ec8" alt="Qiskit">
+      <img src="https://img.shields.io/badge/Python-1a0a0e?style=flat-square&logo=python&logoColor=ff5a5f" alt="Python">
+      <img src="https://img.shields.io/badge/Qiskit-1a0a0e?style=flat-square&logo=qiskit&logoColor=ffaa78" alt="Qiskit">
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ class Diego {
 
 <p>
   <a href="https://www.linkedin.com/in/diego-pereira-38baab365"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Dio-zic"><img src="https://img.shields.io/badge/GitHub-1a1033?style=for-the-badge&logo=github&logoColor=6eebff" alt="GitHub"></a>
+  <a href="https://github.com/Dio-zic"><img src="https://img.shields.io/badge/GitHub-1a0a0e?style=for-the-badge&logo=github&logoColor=ff5a5f" alt="GitHub"></a>
 </p>
 
 <img src="assets/footer.gif" width="900" alt="obrigado pela visita">
