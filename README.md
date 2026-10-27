@@ -80,6 +80,7 @@ class Diego {
 
 <p>
   <a href="https://www.linkedin.com/in/diego-pereira-38baab365"><img src="https://img.shields.io/badge/LinkedIn-8B1020?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:diego.cpereira7@gmail.com"><img src="https://img.shields.io/badge/Email-8B1020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Dio-zic"><img src="https://img.shields.io/badge/GitHub-1a0a0e?style=for-the-badge&logo=github&logoColor=ff5a5f" alt="GitHub"></a>
 </p>
 
