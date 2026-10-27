@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Bel%C3%A9m%2C%20PA-1a0a0e?style=for-the-badge&logo=googlemaps&logoColor=ff5a5f" alt="Belém, PA">
   <img src="https://img.shields.io/badge/Eng.%20da%20Computa%C3%A7%C3%A3o-1a0a0e?style=for-the-badge&logo=academia&logoColor=ffaa78" alt="Engenharia da Computação">
-  <img src="https://img.shields.io/badge/t%C3%A9cnico%20em%20TI-1a0a0e?style=for-the-badge&logo=linux&logoColor=ff5a5f" alt="Técnico em TI">
+  <img src="https://img.shields.io/badge/Linux-1a0a0e?style=for-the-badge&logo=linux&logoColor=ff5a5f" alt="Linux">
+  <img src="https://img.shields.io/badge/t%C3%A9cnico%20em%20TI-1a0a0e?style=for-the-badge&logo=cachet&logoColor=ffaa78" alt="Técnico em TI">
 </p>
 
 <img src="assets/sec_sobre.gif" width="900" alt="sobre_mim">
@@ -16,6 +17,7 @@ class Diego {
     'apps com Flutter e Dart',
     'integrações com APIs REST (Azure)',
     'jogos em Godot e Unity',
+    'Linux no dia a dia (Pop!_OS)',
   ];
 
   final estudando = ['computação quântica (Qiskit)', 'segurança'];
@@ -59,6 +61,8 @@ class Diego {
   <img src="https://img.shields.io/badge/Azure-8B1020?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Godot-8B1020?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/Unity-8B1020?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Linux-8B1020?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Pop!_OS-8B1020?style=for-the-badge&logo=popos&logoColor=white" alt="Pop!_OS">
   <img src="https://img.shields.io/badge/Git-8B1020?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
